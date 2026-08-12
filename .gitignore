@@ -4,7 +4,6 @@ __pycache__/
 *$py.class
 
 # Virtual environments
-.env
 venv/
 env/
 ENV/
@@ -12,7 +11,6 @@ env.bak/
 venv.bak/
 
 # IDE / editor files
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -31,3 +29,9 @@ Thumbs.db
 *.csv
 !data/
 !data/vevor_products.csv
+config.bat
+node_modules
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
