@@ -29,4 +29,5 @@ Thumbs.db
 
 # Project specific
 *.csv
-!app/data/vevor_products.csv   # keep the sample CSV if needed
+!data/
+!data/vevor_products.csv
